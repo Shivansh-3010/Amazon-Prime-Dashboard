@@ -80,7 +80,7 @@ Or download the `.twbx` file and open it using **Tableau Desktop**.
 
 ## 📬 Contact
 
-**Created by Vanshika Panwar**  
+**Created by Shivansh-Deshwal**  
 If you liked this project, feel free to ⭐ star the repo and connect with me!  
-📧 Email: vanshikapanwar28@example.com  
-🔗 GitHub: [@vanshika2810](https://github.com/vanshika2810)
+📧 Email: shivanshdeshwal55555@example.com  
+🔗 GitHub: [@Shivansh-3010](https://github.com/Shivansh-3010)
