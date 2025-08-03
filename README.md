@@ -82,5 +82,5 @@ Or download the `.twbx` file and open it using **Tableau Desktop**.
 
 **Created by Shivansh-Deshwal**  
 If you liked this project, feel free to ⭐ star the repo and connect with me!  
-📧 Email: shivanshdeshwal55555@example.com  
+📧 Email: shivanshdeshwal55555@gmail.com  
 🔗 GitHub: [@Shivansh-3010](https://github.com/Shivansh-3010)
